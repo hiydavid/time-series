@@ -3,12 +3,12 @@ Example of different time series forecasting models.
 
 # Preprocessing
 ## Time Series Generation
-
-# Imputation
-
-# Features Extraction
 * Time Series Generation with Sine Waves and Random Noise
 * Time Series Generation with Trend, Seasonality, and Random Noise
+
+## Imputation
+
+## Features Extraction
 
 # Models
 ## Traditional Statistical Models
