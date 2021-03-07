@@ -1,17 +1,13 @@
 # Time Series Forecasting
 Example of different time series forecasting models.
 
----
 # Preprocessing
 ## Time Series Generation
 
----
 # Imputation
 
----
 # Features Extraction
 
----
 # Models
 ## Traditional Statistical Models
 * Naive / Seasonal Naive
