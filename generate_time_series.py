@@ -45,25 +45,13 @@ Return:
     > Combine trend, seasonal, noise, and level
 '''
 
-def generate_seasonal_time_series(slope, pattern_steps, pattern_repeats,
-                                  noise_size, level_size):
-    
-    # set steps
-    n_steps = pattern_steps * pattern_repeats
-
-    # trend
-    trend = np.arange(n_steps) * slope
-
-    # seasonality
+def generate_seasonal_time_series(slope, pattern_steps, pattern_repeats, noise_size, level_size):
     pattern = pd.DataFrame(generate_time_series(1, pattern_steps)[0]) * 100
+    n_steps = pattern_steps * pattern_repeats
+    trend = np.arange(n_steps) * slope
     seasonal = []
     seasonal.extend(itertools.repeat(pattern[0], pattern_repeats))
     seasonal = list(itertools.chain.from_iterable(seasonal))
-
-    # white noise
     noise = np.random.randn(n_steps) * noise_size
-
-    # level
     level = pd.Series(level_size, index = np.arange(n_steps))
-
     return trend + seasonal + noise + level
