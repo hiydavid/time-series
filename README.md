@@ -35,3 +35,10 @@ Example of different time series forecasting models.
 * DeepAR
 * Neural Prophet
 * N-BEATS
+
+# Evaluation
+## Metrics
+* Mean Absolute Error (MAE)
+* Mean Absolute Percentage Error (MAPE)
+* Mean Absolute Scaled Error (MASE)
+* Weighted MAPE (wMAPE)
