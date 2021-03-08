@@ -7,8 +7,11 @@ Example of different time series forecasting models.
 * Time Series Generation with Trend, Seasonality, and Random Noise
 
 ## Imputation
+* Extrapolation
+* Similarity
 
 ## Features Extraction
+* Time Series Features with TSFresh
 
 # Models
 ## Traditional Statistical Models
