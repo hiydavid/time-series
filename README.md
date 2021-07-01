@@ -1,10 +1,10 @@
-# Time Series Forecasting
-Example of different time series forecasting models.
+# Time Series
+Example of different time series analysis / forecasting techniques.
 
 # Preprocessing
 ## Time Series Generation
 * Time Series Generation with Sine Waves and Random Noise
-* Time Series Generation with Trend, Seasonality, and Random Noise
+* Time Series Generation with ARIMA & STL Simulations
 
 ## Imputation
 * Extrapolation
