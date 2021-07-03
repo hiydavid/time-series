@@ -13,7 +13,7 @@ Example of different time series analysis / forecasting techniques.
 * Similarity
 
 ### Features Extraction
-* Time Series Features with TSFresh
+* Time Series Features with Kats
 
 ---
 
