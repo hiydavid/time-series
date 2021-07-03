@@ -33,6 +33,9 @@ Example of different time series analysis / forecasting techniques.
 * XGBoost (XGB)
 * Histogram-Based Gradient Boosting (HGB)
 
+### Clustering Models
+* Dynamic Time Warping
+
 ### Deep Learning Models
 * RNN
 * LSTM
