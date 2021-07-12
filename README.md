@@ -5,15 +5,15 @@ Example of different time series analysis / forecasting techniques.
 
 ## 1. Preprocessing
 ### Time Series Generation
-* Time Series Generation with Sine Waves and Random Noise
-* Time Series Generation with ARIMA & STL Simulations
+* Time Series Generation with Sine Waves and Random Noise **– DONE**
+* Time Series Generation with ARIMA & STL Simulations **– DONE**
 
 ### Imputation
 * Extrapolation
 * Similarity
 
 ### Features Extraction
-* Time Series Features with Kats
+* Time Series Features with Kats **– DONE**
 
 ---
 
