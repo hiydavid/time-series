@@ -34,11 +34,11 @@ Example of different time series analysis / forecasting techniques.
 * Histogram-Based Gradient Boosting (HGB)
 
 ### Clustering Models
-* Dynamic Time Warping
+* Dynamic Time Warping **– DONE**
 
 ### Deep Learning Models
-* RNN
-* LSTM
+* RNN **– DONE**
+* LSTM **– DONE**
 * DeepAR
 * Neural Prophet
 * N-BEATS
