@@ -16,3 +16,6 @@
 
 ### Clustering
 * Dynamic Time Warping
+
+### Project
+* Store Sales ([Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview))
