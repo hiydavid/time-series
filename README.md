@@ -8,8 +8,9 @@
 * Time Series Features with Kats
 
 ### Forecasting
-* Facebook Prophet
-* XGBoost (XGB)
+* Prophet
+* XGBoost
+* LightGBM
 * RNN
 * LSTM
 
