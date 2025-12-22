@@ -19,6 +19,8 @@ A collection of tutorials covering time series analysis, forecasting, and machin
 - RNN
 - LSTM
 - Transformer
+- Chronos
+- Moirai
 
 ## Clustering
 
