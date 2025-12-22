@@ -1,19 +1,25 @@
 # Time Series Tutorials
 
-### Time Series Generation
-* Sine Waves and Random Noise
-* ARIMA & STL Simulations 
+A collection of tutorials covering time series analysis, forecasting, and machine learning techniques.
 
-### Features Extraction
-* Time Series Features with Kats
+## Time Series Generation
 
-### Forecasting
-* Prophet
-* XGBoost
-* LightGBM
-* RNN
-* LSTM
-* Transformer
+- Sine Waves and Random Noise
+- ARIMA & STL Simulations
 
-### Clustering
-* Dynamic Time Warping
+## Feature Extraction
+
+- Time Series Features with Kats
+
+## Forecasting
+
+- Prophet
+- XGBoost
+- LightGBM
+- RNN
+- LSTM
+- Transformer
+
+## Clustering
+
+- Dynamic Time Warping
