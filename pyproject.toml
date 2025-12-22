@@ -1,0 +1,15 @@
+[project]
+name = "time-series"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chronos-forecasting",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "utilsforecast>=0.2.15",
+]
+
+[tool.uv.sources]
+chronos-forecasting = { git = "https://github.com/amazon-science/chronos-forecasting.git" }
